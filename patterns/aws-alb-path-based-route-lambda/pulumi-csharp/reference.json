@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/plotcode-org/plotcode-library/tree/main/patterns/aws-alb-path-based-route-lambda/pulumi-csharp",
+  "template": "Program.cs"
+}

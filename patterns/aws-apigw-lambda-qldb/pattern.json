@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway to Lambda to QLDB",
+  "description": "Create an API Gateway REST API that uses a Lambda function to call QLDB."
+}

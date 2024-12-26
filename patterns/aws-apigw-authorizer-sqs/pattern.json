@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway REST API protected with authorizer to SQS",
+  "description": "Create an API Gateway REST API that is protected with an AWS Lambda token authorizer and integrates with Amazon SQS"
+}

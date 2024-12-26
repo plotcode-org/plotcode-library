@@ -1,0 +1,4 @@
+{
+  "title": "AWS Step Functions callback pattern using dotnet",
+  "description": "Use a task token to signal the completion of a task and pause/resume the workflow execution."
+}

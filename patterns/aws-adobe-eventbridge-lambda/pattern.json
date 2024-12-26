@@ -1,0 +1,4 @@
+{
+  "title": "Adobe I/O Events to AWS Lambda with Amazon EventBridge",
+  "description": "Use EventBridge Adobe I/O Events Integration to process order events with AWS Lambda, send notifications via SES, or store data in other AWS services."
+}

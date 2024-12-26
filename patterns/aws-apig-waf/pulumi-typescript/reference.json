@@ -1,0 +1,4 @@
+{
+    "repo": "https://github.com/plotcode-org/plotcode-library/tree/main/patterns/aws-apig-waf/pulumi-typescript",
+    "template": "index.ts"
+  }

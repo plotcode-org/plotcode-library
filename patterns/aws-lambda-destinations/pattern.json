@@ -1,0 +1,4 @@
+{
+  "title": "Lambda Destinations to Lambda and SQS",
+  "description": "Lambda function that on success sends message to another function and on failure to SQS using Lambda destinations"
+}

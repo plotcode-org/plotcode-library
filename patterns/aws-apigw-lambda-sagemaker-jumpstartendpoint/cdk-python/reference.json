@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-lambda-sagemaker-jumpstartendpoint-cdk-python",
+  "template": "stack/ApigwLambdaSagemakerJumpstartendpointStack.py"
+}

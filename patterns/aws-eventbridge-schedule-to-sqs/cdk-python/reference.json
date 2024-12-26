@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-schedule-to-sqs-cdk-python",
+  "template": "eventbridge_schedule_to_sqs_cdk_python/eventbridge_schedule_to_sqs_cdk_python_stack.py"
+}

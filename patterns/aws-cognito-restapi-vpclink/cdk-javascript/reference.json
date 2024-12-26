@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cognito-restapi-vpclink-cdk",
+  "template": "cdk/lib/cdk-cognito-fargate-stack.js"
+}

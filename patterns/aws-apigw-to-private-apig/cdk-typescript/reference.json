@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-to-private-apig-cdk",
+  "template": "src/index.ts"
+}

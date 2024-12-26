@@ -1,0 +1,4 @@
+{
+  "title": "Amazon API Gateway REST API to AWS Lambda to Amazon EFS",
+  "description": "Attach, configure and access Amazon EFS from AWS Lambda function."
+}

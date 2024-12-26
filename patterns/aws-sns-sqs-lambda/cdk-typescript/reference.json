@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sns-sqs-lambda-cdk",
+  "template": "src/lib/sns-sqs-lambda-cdk.ts"
+}

@@ -1,0 +1,4 @@
+{
+  "title": "EventBridge pipes targets IoT Core topic",
+  "description": "Create an EventBridge pipe that publishes data to an IoT Core topic"
+}

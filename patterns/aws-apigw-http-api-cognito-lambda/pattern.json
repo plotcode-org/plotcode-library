@@ -1,0 +1,4 @@
+{
+  "title": "Amazon API Gateway HTTP API with Cognito JWT and AWS Lambda integration",
+  "description": "This pattern creates an Amazon Gateway API (v2) and two Lambda functions protected by JwtAuthorizer and Cognito for user management."
+}

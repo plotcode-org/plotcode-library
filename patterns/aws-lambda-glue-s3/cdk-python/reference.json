@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/lambda-glue-s3",
+  "template": "app.py"
+}

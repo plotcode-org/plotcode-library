@@ -1,0 +1,4 @@
+{
+  "title": "Public API Gateway endpoint to private API Gateway endpoint",
+  "description": "Create a public API Gateway endpoint integrated with a private API Gateway endpoint."
+}

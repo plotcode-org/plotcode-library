@@ -1,0 +1,4 @@
+{
+    "title": "Helm chart on Azure Kubernetes Service (AKS) with Azure Cosmos DB MongoDB",
+    "description": "Stands up an Azure Kubernetes Service (AKS) cluster and a MongoDB-flavored instance of Azure Cosmos DB."
+}

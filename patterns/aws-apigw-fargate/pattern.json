@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway to AWS Fargate",
+  "description": "Create an API Gateway endpoint to access an AWS Fargate service"
+}

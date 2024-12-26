@@ -1,0 +1,4 @@
+{
+  "title": "Athena to Glue to S3",
+  "description": "Create AWS Glue tables from Athena and integrate with S3."
+}

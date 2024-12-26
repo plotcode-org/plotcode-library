@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cloudfront-waf-s3-cdk",
+  "template": "src/CdkStack.cs"
+}

@@ -1,0 +1,4 @@
+{
+  "title": "SQS to EventBridge Bus using EventBridge Pipes",
+  "description": "This pattern uses SQS and triggers EventBridge events directly with optional filtering supported."
+}

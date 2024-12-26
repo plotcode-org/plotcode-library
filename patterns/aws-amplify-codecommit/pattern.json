@@ -1,0 +1,4 @@
+{
+  "title": "AWS CodeCommit to AWS Amplify Web App",
+  "description": "Create a CodeCommit repository and deploy an Amplify web application from a local folder."
+}

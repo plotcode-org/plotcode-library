@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-global-endpoints-cdk",
+  "template": "cdk/lib/global-endpoint-stack.ts"
+}

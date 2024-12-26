@@ -1,0 +1,5 @@
+name: example-pulumi-python
+description: An example Python Pulumi program
+runtime: python
+config:
+  adobeEventBusName: example-adobe-event-bus

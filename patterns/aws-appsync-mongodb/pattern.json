@@ -1,0 +1,4 @@
+{
+  "title": "AppSync to MongoDB",
+  "description": "Connect directly to MongoDB Atlas cluster using AWS AppSync using HTTP resolvers."
+}

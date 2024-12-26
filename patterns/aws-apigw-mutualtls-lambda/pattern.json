@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway REST API to Lambda using mutual TLS",
+  "description": "Create an Amazon API Gateway REST API that invokes an AWS Lambda function with mutual TLS"
+}

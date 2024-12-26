@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/lambda-extension-parameter-store-cdk",
+  "template": "lib/lambda-extension-parameter-store-cdk-stack.ts"
+}

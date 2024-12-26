@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sns-sqs-cdk",
+  "template": "sns_sqs_cdk/sns_sqs_cdk_stack.py"
+}

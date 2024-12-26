@@ -1,0 +1,3 @@
+name: example-pulumi-typescript
+description: An example TypeScript Pulumi program
+runtime: nodejs

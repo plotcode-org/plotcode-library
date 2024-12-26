@@ -1,0 +1,4 @@
+{
+  "title": "EventBridge to Firehose Delivery Stream to S3",
+  "description": "Apply Firehose DynamicPartitioningConfiguration to parse the input message to extract department value to use it to create S3 partition"
+}

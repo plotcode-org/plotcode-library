@@ -1,0 +1,4 @@
+{
+  "title": "AppConfig Feature Flag",
+  "description": "Read the status from Appconfig Application using Lambda Extension"
+}

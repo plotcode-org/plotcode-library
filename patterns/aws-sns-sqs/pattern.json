@@ -1,0 +1,4 @@
+{
+  "title": "SNS to SQS",
+  "description": "Create an SQS queue that subscribes to an SNS topic."
+}

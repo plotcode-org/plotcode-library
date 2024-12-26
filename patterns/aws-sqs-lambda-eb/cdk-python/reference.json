@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sqs-lambda-eb-cdk-python",
+  "template": "sqs_lambda_eb_cdk/sqs_lambda_eb_cdk_stack.py"
+}

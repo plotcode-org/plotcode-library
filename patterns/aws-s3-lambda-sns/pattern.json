@@ -1,0 +1,4 @@
+{
+  "title": "Amazon S3 to AWS Lambda to Amazon SNS",
+  "description": "S3 upload events trigger Lambda functions to process new objects. After processing the Lambda function publishes an SNS notification."
+}

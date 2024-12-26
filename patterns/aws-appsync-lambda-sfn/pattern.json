@@ -1,0 +1,4 @@
+{
+  "title": "Invoke a Step functions workflow from Appsync",
+  "description": "Invoke a Step Functions workflow through a Lambda resolver from Appsync"
+}

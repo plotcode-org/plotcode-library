@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-schedule-to-ec2-cdk",
+  "template": "cdk/lib/schedule-ec2-instances-start-and-stop-stack.ts"
+}

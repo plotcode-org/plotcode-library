@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/lambda-dynamodb-cdk",
+  "template": "cdk/lib/cdk-stack.ts"
+}

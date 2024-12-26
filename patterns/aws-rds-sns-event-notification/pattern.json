@@ -1,0 +1,4 @@
+{
+  "title": "Amazon RDS instance event notification to Amazon SNS",
+  "description": "Amazon RDS event subscriptions allow users to configure notifications for RDS events."
+}

@@ -1,0 +1,4 @@
+{
+  "title": "Kinesis Firehose Data Transformation with Lambda",
+  "description": "Transform incoming source data and deliver the transformed data to S3."
+}

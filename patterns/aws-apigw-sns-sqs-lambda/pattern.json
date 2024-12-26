@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway to SNS to SQS",
+  "description": "Create an Amazon API Gateway API that integrates with Amazon SNS and Amazon SQS"
+}

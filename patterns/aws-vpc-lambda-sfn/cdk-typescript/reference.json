@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cdk-vpc-lambda-sfn",
+  "template": "app.ts"
+}

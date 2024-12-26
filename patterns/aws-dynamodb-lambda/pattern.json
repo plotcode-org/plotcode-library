@@ -1,0 +1,4 @@
+{
+  "title": "DynamoDB to Lambda",
+  "description": "Invoke a Lambda function from changes to a DynamoDB table"
+}

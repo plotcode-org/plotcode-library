@@ -1,0 +1,4 @@
+{
+  "title": "Appsync to EventBridge using Appsync Datasource",
+  "description": "This pattern connects AppSync to EventBridge directly using AppSync Datasource"
+}

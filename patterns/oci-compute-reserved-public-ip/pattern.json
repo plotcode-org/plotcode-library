@@ -1,0 +1,4 @@
+{
+  "title": "Instance with a reserved public IP",
+  "description": "Deploy a compute instance and attach a reserved public IP address to the instance."
+}

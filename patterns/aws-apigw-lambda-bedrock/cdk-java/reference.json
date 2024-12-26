@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-lambda-bedrock-cdk-java",
+  "template": "infrastructure/src/main/java/com/example/InfrastructureApp.java"
+}

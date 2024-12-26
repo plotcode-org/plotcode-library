@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/dynamodb-streams-to-eventbridge-outbox-pattern",
+  "template": "cdk/lib/eventbridge-outbox-pattern-with-ddb-stack.ts"
+}

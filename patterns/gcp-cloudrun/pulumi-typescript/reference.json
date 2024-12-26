@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/pulumi/examples/blob/master/gcp-ts-cloudrun",
+  "template": "index.ts"
+}

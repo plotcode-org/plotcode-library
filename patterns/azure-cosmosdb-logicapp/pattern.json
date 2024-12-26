@@ -1,0 +1,4 @@
+{
+    "title": "Azure Cosmos DB, API Connection, and Logic App",
+    "description": "Native Azure provider using the Azure resource manager API to define API connections and link it to a logic app."
+}

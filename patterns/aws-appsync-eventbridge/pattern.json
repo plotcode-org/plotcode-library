@@ -1,0 +1,4 @@
+{
+  "title": "AppSync to EventBridge",
+  "description": "Create an AppSync API with an EventBridge event bus"
+}

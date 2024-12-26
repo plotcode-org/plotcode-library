@@ -1,0 +1,4 @@
+{
+  "title": "SQS to trigger Step Functionsusing EventBridge Pipe with CDK Python",
+  "description": "Simple pattern that triggers Step Functionsexecution from SQS using Amazon EventBridge Pipe and CDK using Python. "
+}

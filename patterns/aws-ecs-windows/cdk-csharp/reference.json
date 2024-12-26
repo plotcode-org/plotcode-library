@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/ecs-windows-cdk-dotnet",
+  "template": "cdk/src/WindowsECS/WindowsECSClusterStack.cs"
+}

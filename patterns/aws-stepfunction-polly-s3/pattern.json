@@ -1,0 +1,4 @@
+{
+  "title": "Step Functions to Polly to S3 with CDK (Typescript)",
+  "description": "Step Functions - Polly SDK integration for text to speech output as mp3 into s3 ."
+}

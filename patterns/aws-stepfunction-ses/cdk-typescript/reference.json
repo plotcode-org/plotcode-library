@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/stepfunction-ses-cdk",
+  "template": "lib/stepfunction-ses-cdk-stack.ts"
+}

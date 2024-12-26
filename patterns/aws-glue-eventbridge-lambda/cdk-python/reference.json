@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/glue-eventbridge-lambda-cdk",
+  "template": "glue_eventbridge_lambda_cdk/glue_eventbridge_lambda_cdk_stack.py"
+}

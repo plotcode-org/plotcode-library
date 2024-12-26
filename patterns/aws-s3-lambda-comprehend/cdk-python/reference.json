@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/s3-lambda-comprehend-cdk-python",
+  "template": "app.py"
+}

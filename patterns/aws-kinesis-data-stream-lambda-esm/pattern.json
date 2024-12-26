@@ -1,0 +1,4 @@
+{
+  "title": "Amazon Kinesis Data Streams to AWS Lambda with event filtering",
+  "description": "Process filtered events from a Kinesis data stream with AWS Lambda"
+}

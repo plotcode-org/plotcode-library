@@ -1,0 +1,4 @@
+{
+  "title": "Create and route events using AWS Lambda, Amazon EventBridge, Amazon SQS",
+  "description": "The pattern sends custom events to EventBridge, routes them using content-based rules to rate-controlled SQS queues and Lambda functions"
+}

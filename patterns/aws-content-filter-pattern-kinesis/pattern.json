@@ -1,0 +1,4 @@
+{
+  "title": "Kinesis to Kinesis using EventBridge Pipes with content filter pattern",
+  "description": "This pattern demonstrates the content filter pattern between two Kinesis streams, implemented using an EventBridge Pipe."
+}

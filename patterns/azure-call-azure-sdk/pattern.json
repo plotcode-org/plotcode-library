@@ -1,0 +1,4 @@
+{
+    "title": "Native Azure Pulumi provider with Microsoft Azure SDK",
+    "description": "The native Azure Pulumi provider exposes the entire resource model of Azure Resource Manager."
+}

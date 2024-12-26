@@ -1,0 +1,4 @@
+{
+    "title": "Google Kubernetes Engine (GKE) Cluster with Hello World App",
+    "description": "This example deploys an Google Kubernetes Engine (GKE) cluster and deploys a Kubernetes Namespace and NGINX."
+}

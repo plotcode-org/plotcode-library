@@ -1,0 +1,4 @@
+{
+  "title": "Live Streaming content at scale using Amazon CloudFront",
+  "description": "Create MediaPackage custom endpoints as origins for a CloudFront distribution."
+}

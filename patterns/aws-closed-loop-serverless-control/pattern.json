@@ -1,0 +1,4 @@
+{
+  "title": "Amazon EventBridge to AWS Lambda with feedback control by Amazon CloudWatch Alarms",
+  "description": "Create a closed-Loop (feedback) control mechanism for throttle-handling of 3rd party calls on AWS Lambda with Amazon CloudWatch Alarms and Amazon EventBridge"
+}

@@ -1,0 +1,4 @@
+{
+    "title": "Azure Kubernetes Service (AKS) Cluster using the native Azure Provider",
+    "description": "Deploys an AKS cluster, creates an Azure User Assigned Managed Identity, and sets credentials to manage access to the cluster."
+}

@@ -1,0 +1,4 @@
+{
+  "title": "Amazon SQS FIFO queue with controlled delay",
+  "description": "Amazon SQS FIFO queue with delay using AWS Lambda and Amazon DynamoDB"
+}

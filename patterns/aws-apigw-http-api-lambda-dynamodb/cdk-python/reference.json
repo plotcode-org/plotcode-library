@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-http-api-lambda-dynamodb-python-cdk",
+  "template": "stacks/apigw_http_api_lambda_dynamodb_python_cdk_stack.py"
+}

@@ -1,0 +1,4 @@
+{
+  "title": "EventBridge to CloudWatch Logs",
+  "description": "Create an EventBridge rule that sends events to CloudWatch Logs"
+}

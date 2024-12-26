@@ -1,0 +1,4 @@
+{
+    "title": "Azure App Service Running Docker Containers on Linux",
+    "description": "Starting point for building web application hosted in Azure App Service from Docker images."
+}

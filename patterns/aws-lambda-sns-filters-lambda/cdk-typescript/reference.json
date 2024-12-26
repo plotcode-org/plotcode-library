@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/lambda-sns-filters-lambda",
+  "template": "src/lib/lambda-sns-filters-lambda.ts"
+}

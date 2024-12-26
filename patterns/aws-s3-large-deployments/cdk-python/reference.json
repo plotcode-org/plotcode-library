@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/s3-large-deployments-cdk",
+  "template": "s3_large_deployment/s3_large_deployment_stack.py"
+}

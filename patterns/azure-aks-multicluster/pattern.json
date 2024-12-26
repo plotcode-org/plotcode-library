@@ -1,0 +1,4 @@
+{
+    "title": "Multiple Azure Kubernetes Service (AKS) Clusters",
+    "description": "Create multiple Azure Kubernetes Service (AKS) clusters in different regions and with different node counts."
+}

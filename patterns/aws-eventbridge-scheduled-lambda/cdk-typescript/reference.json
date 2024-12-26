@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-scheduled-lambda-cdk-typescript",
+  "template": "lib/eventbridge-scheduled-lambda-cdk-stack.ts"
+}

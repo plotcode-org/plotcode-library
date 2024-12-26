@@ -1,0 +1,4 @@
+{
+  "title": "Amazon SageMaker endpoint via API Gateway and Lambda",
+  "description": "Deploys a SageMaker Jumpstart model endpoint and an API Gateway endpoint."
+}

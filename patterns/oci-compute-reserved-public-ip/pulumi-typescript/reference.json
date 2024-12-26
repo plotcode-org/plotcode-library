@@ -1,0 +1,4 @@
+{
+    "repo": "https://github.com/plotcode-org/plotcode-library/tree/main/patterns/oci-compute-reserved-public-ip/pulumi-typescript",
+    "template": "index.ts"
+  }

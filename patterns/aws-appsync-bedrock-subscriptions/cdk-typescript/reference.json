@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/appsync-bedrock-subscriptions-cdk",
+  "template": "lib/backend-stack.ts"
+}

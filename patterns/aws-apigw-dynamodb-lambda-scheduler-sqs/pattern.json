@@ -1,0 +1,4 @@
+{
+  "title": "Delayed processing of DynamoDB stream with EventBridge Scheduler",
+  "description": "Create a workflow using CDK to process DynamoDB stream at scheduled time window."
+}

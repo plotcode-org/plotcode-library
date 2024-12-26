@@ -1,0 +1,4 @@
+{
+    "title": "Provisioning an OIDC Provider in Google Cloud",
+    "description": "This example will create OIDC configuration between Pulumi Cloud and Google Cloud."
+}

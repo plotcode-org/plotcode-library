@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/aurora-serverless-global-db-cdk",
+  "template": "bin/aurora-global-db-multistack.ts"
+}

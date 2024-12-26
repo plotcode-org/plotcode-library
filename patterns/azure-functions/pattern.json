@@ -1,0 +1,4 @@
+{
+    "title": "Azure Functions on a Linux App Service Plan",
+    "description": "Azure Functions created from deployment packages in Python and deployed to an App Service Plan on Linux."
+}

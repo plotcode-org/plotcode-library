@@ -1,0 +1,4 @@
+{
+  "title": "Serverless Web Application",
+  "description": "Create a serverless web application using S3, CloudFront, API Gateway, Lambda, DynamoDB and Cognito."
+}

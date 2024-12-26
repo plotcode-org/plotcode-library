@@ -1,0 +1,4 @@
+{
+  "title": "S3 to EventBridge to Lambda",
+  "description": "Creates an S3 bucket that publishes events to EventBridge that are routed to Lambda."
+}

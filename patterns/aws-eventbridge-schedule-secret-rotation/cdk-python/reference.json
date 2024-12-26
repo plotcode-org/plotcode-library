@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-schedule-secret-rotation-cdk",
+  "template": "cdk/eventbridge_schedule_secret_rotation_stack.py"
+}

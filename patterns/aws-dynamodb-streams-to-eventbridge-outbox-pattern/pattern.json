@@ -1,0 +1,4 @@
+{
+  "title": "Outbox pattern with DynamoDB and EventBridge",
+  "description": "Outbox pattern example with DynamoDB streams and EventBridge. Listen for new inserts and raise domain events into your architecture."
+}

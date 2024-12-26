@@ -1,0 +1,4 @@
+{
+  "title": "CloudWatch Logs Subscription to Kinesis Firehose",
+  "description": "Create a CloudWatch Logs subscription to Kinesis Firehose to S3 bucket"
+}

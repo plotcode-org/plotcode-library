@@ -1,0 +1,4 @@
+{
+  "title": "Lambda to CloudWatch",
+  "description": "Create a Lambda function that publishes custom metrics to CloudWatch"
+}

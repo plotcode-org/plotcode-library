@@ -1,0 +1,4 @@
+{
+  "title": "Application Load Balancer with multiple Lambda functions as a target",
+  "description": "Create an Application Load Balancer with Lambda functions as targets"
+}

@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-pipes-dynamodbstream-to-sqs-cdk-python",
+  "template": "eventbridge_pipes_dynamodbstream_to_sqs_cdk_python/eventbridge_pipes_dynamodbstream_to_sqs_cdk_python_stack.py"
+}

@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/stepfunction-polly-s3-cdk",
+  "template": "lib/stepfunction-polly-s3-cdk-stack.ts"
+}

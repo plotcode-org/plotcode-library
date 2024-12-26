@@ -1,0 +1,4 @@
+{
+  "title": "Process Amazon Inspector Findings",
+  "description": "Process Amazon Inspector findings and initial scan results via AWS Lambda and send them to S3 for storage or analysis."
+}

@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-lambda-iot-cdk",
+  "template": "lib/apigw-lambda-iot-stack.ts"
+}

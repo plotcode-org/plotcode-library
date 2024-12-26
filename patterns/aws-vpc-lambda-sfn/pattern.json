@@ -1,0 +1,4 @@
+{
+  "title": "Step Functions to Lambda",
+  "description": "Create an Step Functions state machine to call a VPC-enabled Lambda function"
+}

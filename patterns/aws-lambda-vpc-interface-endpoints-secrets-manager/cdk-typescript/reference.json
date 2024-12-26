@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/lambda-vpc-interface-endpoints-secrets-manager",
+  "template": "lib/aws-lambda-to-secrets-manager-in-private-subnet-stack.ts"
+}

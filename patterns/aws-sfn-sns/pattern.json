@@ -1,0 +1,4 @@
+{
+  "title": "AWS Step Functions to SNS",
+  "description": "Creates a Step Functions workflow that waits before sending an SNS message."
+}

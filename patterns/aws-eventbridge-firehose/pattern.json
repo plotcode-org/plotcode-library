@@ -1,0 +1,4 @@
+{
+  "title": "EventBridge to Kinesis Firehose to S3",
+  "description": "Forward custom events to Amazon Simple Storage Service (Amazon S3) using EventBridge rules and Amazon Kinesis Data Firehose."
+}

@@ -1,0 +1,4 @@
+{
+  "title": "EventBridge to Lambda to DynamoDB",
+  "description": "This AWS CDK application demonstrates how to Schedule AWS Lambda to add items to DynamoDB."
+}

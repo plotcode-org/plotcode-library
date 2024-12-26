@@ -1,0 +1,4 @@
+{
+  "title": "Apache Flink with Kinesis Data Stream Source and Firehose Sink",
+  "description": "Create a Managed Service for Apache Flink application with an Amazon Kinesis Data Stream source and Amazon Kinesis Firehose sink."
+}

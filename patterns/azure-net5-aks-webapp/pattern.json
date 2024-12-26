@@ -1,0 +1,4 @@
+{
+    "title": "Deploy Containerized Web Applications",
+    "description": "Uses the native Azure Provider running on .NET 5 and C# 9 to deploy containerized web applications."
+}

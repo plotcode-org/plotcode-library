@@ -1,0 +1,4 @@
+{
+  "title": "IoT rule to SQS queue to Lambda ",
+  "description": "Create an IoT Rule with a SQS action and an AWS Lambda function."
+}

@@ -1,0 +1,4 @@
+{
+  "title": "AppSync to SQS",
+  "description": "Create an AppSync GraphQl API that sends messages to an SQS queue"
+}

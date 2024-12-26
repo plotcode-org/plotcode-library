@@ -1,0 +1,4 @@
+{
+  "title": "Create EventBridge schedules using DynamoDB Streams",
+  "description": "An event-driven pattern that creates three EventBridge schedules for every user inserted into a DynamoDB table."
+}

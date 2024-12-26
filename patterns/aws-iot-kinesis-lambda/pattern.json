@@ -1,0 +1,4 @@
+{
+  "title": "IoT Core to Kinesis to Lambda",
+  "description": "Create a IoT Rule with a Kinesis Data Stream action that publishes messages to a Kinesis Data Stream and triggers a Lambda function to process the data."
+}

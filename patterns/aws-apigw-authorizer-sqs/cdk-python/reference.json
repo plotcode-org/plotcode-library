@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cdk-apigw-authorizer-sqs",
+  "template": "apigw_sqs/apigw_sqs_auth_stack.py"
+}

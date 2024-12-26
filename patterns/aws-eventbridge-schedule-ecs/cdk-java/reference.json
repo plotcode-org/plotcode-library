@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-schedule-ecs-cdk-java",
+  "template": "/src/main/java/com/myorg/EventBridgeScheduleEcsCdkJavaStack.java"
+}

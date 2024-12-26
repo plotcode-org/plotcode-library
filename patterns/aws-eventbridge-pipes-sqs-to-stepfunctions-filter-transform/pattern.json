@@ -1,0 +1,4 @@
+{
+  "title": "Amazon SQS to AWS Step Functions via Amazon EventBridge Pipes filter",
+  "description": "Amazon EventBridge Pipe that filters and transforms messages from Amazon SQS to AWS Step Functions."
+}

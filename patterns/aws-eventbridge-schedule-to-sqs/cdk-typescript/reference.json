@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-schedule-to-sqs-cdk-typescript",
+  "template": "lib/eventbridge-schedule-to-sqs-cdk-typescript-stack.ts"
+}

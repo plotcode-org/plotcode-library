@@ -1,0 +1,4 @@
+{
+  "title": "Amazon DynamoDB Streams to AWS Lambda to Amazon DynamoDB",
+  "description": "Copy data from source to target DynamoDB tables."
+}

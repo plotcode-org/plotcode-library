@@ -1,0 +1,4 @@
+{
+  "title": "EventBridge Scheduler to Start State Manager Association",
+  "description": "This pattern will create an EventBridge Scheduler to start State Manager Association once in AWS Systems Manager every 5 minutes."
+}

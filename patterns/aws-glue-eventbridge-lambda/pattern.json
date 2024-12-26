@@ -1,0 +1,4 @@
+{
+  "title": "AWS Glue Job trigger a Lambda Function over EventBridge Rule",
+  "description": "AWS Glue Job trigger a Lambda Function over EventBridge Rule after change state to timed out"
+}

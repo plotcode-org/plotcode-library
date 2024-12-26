@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/s3-eventbridge-fargate-cdk",
+  "template": "src/s3-trigger-fargate-task-stack.ts"
+}

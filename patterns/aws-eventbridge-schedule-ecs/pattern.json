@@ -1,0 +1,4 @@
+{
+  "title": "Amazon EventBridge Scheduler to run Amazon Elastic Container Service task",
+  "description": "Simple pattern that create an Amazon EventBridge Scheduler to run task in Amazon Elastic Container Service cluster every 15 minutes."
+}

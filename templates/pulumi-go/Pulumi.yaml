@@ -1,0 +1,3 @@
+name: example-pulumi-go
+description: An example Go Pulumi program
+runtime: go

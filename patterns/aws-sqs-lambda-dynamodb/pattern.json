@@ -1,0 +1,4 @@
+{
+  "title": "SQS to Lambda to DynamoDB",
+  "description": "Create a Lambda function that batch writes to DynamoDB from SQS."
+}

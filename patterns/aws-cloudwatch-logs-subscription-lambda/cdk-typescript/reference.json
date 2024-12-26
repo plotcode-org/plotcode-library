@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cloudwatch-logs-subscription-lambda-cdk",
+  "template": "lib/cloudwatch-logs-subscription-lambda-cdk-stack.ts"
+}

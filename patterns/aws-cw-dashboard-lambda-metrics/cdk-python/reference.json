@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cw-dashboard-lambda-metrics",
+  "template": "lambda_monitoring/lambda_monitoring_stack.py"
+}

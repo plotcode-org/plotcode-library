@@ -1,0 +1,4 @@
+{
+    "title": "Google Cloud Network and Instance with ComponentResource",
+    "description": "This example uses pulumi.ComponentResource to create a Google Cloud Network and instance."
+}

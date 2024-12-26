@@ -1,0 +1,4 @@
+{
+  "title": "Serverless Data Enrichment Pipeline with Persistence",
+  "description": "This pattern helps you deploy a CDK stack with SNS, SQS, Lambda and DynamoDB. "
+}

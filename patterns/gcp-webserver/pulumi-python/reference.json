@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/pulumi/examples/blob/master/gcp-py-webserver",
+  "template": "__main__.py"
+}

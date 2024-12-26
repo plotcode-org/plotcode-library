@@ -1,0 +1,4 @@
+{
+  "title": "SQS to SQS with EventBridge Pipes and Lambda Enrichment",
+  "description": "This pattern demonstrates sending SQS messages to another SQS queue with a Lambda function to enrich the data."
+}

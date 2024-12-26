@@ -1,0 +1,4 @@
+{
+  "title": "CloudFront to S3",
+  "description": "CloudFront to S3 to serve a static site"
+}

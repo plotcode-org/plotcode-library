@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sns-slack-teams-integration-cdk-python",
+  "template": "sns_slack_teams_integration_cdk_python/sns_slack_teams_integration_cdk_python_stack.py"
+}

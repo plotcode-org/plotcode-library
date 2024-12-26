@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-pipes-sqs-to-multiple-sqs",
+  "template": "eventbridge_pipes_sqs_to_multiple_sqs/eventbridge_pipes_sqs_to_multiple_sqs_stack.py"
+}

@@ -1,0 +1,4 @@
+{
+  "title": "S3 to Lambda to Polly",
+  "description": "Automating Text-to-Speech with Lambda and S3 Triggers"
+}

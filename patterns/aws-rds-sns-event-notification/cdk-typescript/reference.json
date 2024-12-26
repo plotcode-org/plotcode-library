@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/rds-sns-event-notification-cdk-ts",
+  "template": "lib/rds-sns-event-notification-cdk-ts-stack.ts"
+}

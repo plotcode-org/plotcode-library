@@ -1,0 +1,4 @@
+{
+  "title": "SQS to Lambda",
+  "description": "Create a Lambda function that subscribes to an SQS queue"
+}

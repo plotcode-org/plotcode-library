@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/systems-manager-automation-to-stepfunctions",
+  "template": "src/create-snapshot-lamda-function.py"
+}

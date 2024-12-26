@@ -1,0 +1,4 @@
+{
+    "title": "Web Server Using Azure Virtual Machine",
+    "description": "This example deploys an Azure Virtual Machine and starts an HTTP server on it."
+}

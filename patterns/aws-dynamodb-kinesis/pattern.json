@@ -1,0 +1,4 @@
+{
+  "title": "DynamoDB to Kinesis",
+  "description": "Deploy a DynamoDB table that uses a Kinesis stream"
+}

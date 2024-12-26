@@ -1,0 +1,4 @@
+{
+  "title": "AWS Systems Manager automation to AWS Step Functions",
+  "description": "Create SSM automation document that invokes Step functions."
+}

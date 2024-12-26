@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/appsync-dynamodb-singletable-cdk",
+  "template": "cdk/lib/appsync-cdk-stack.ts"
+}

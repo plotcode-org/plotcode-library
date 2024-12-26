@@ -1,0 +1,4 @@
+{
+  "title": "AWS Lambda from Amazon Kendra to Amazon Bedrock",
+  "description": "AWS Lambda function to retrieve documents from an Amazon Kendra index and pass it to Amazon Bedrock for a generated response."
+}

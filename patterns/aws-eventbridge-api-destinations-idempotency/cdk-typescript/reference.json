@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-api-destinations-idempotency-cdk",
+  "template": "src/lib/eb-api-destination-stack.ts"
+}

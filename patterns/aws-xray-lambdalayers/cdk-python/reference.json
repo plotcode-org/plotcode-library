@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/xray-lambdalayers-cdk-python",
+  "template": "lambda_layer_x_ray_stack/lambda_layer_x_ray_stack_stack.py"
+}

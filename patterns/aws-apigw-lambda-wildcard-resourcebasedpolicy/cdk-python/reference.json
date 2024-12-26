@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-lambda-wildcard-resourcebasedpolicy-cdk",
+  "template": "cdk_apigw_lambda_wildcardpolicy_stack/cdk_apigw_lambda_wildcardpolicy_stack.py"
+}

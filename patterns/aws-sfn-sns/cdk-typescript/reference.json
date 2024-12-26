@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sfn-sns-cdk",
+  "template": "src/lib/sfn-sns-cdk-stack.ts"
+}

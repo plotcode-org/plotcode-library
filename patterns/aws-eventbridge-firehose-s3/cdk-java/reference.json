@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-firehose-s3-cdk-java",
+  "template": "src/main/java/com/myorg/EventBridgeFirehoseS3Stack.java"
+}

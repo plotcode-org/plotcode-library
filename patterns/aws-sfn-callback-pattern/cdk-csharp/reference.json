@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sfn-callback-pattern-cdk-dotnet",
+  "template": "src/Deployment/CdkStack.cs"
+}

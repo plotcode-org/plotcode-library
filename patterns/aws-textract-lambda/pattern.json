@@ -1,0 +1,4 @@
+{
+  "title": "Extract text from images using Amazon Textract",
+  "description": "This CDK application demonstrates how to use Amazon Textract service to extract text from images."
+}

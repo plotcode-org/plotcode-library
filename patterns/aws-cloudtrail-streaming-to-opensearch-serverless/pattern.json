@@ -1,0 +1,4 @@
+{
+  "title": "Amazon CloudTrail to AWS Lambda to Amazon OpenSearch",
+  "description": "Create an OpenSearch cluster in VPC that receives CloudTrail CloudWatch Logs from Lambda."
+}

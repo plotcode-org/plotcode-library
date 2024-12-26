@@ -1,0 +1,4 @@
+{
+  "title": "Amazon Kinesis Data Streams to AWS Lambda",
+  "description": "A serverless example to connect Amazon Kinesis Data Streams to AWS Lambda."
+}

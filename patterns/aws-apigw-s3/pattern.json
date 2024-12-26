@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway REST API to S3",
+  "description": "Create an Amazon API Gateway API that integrates with an S3 bucket."
+}

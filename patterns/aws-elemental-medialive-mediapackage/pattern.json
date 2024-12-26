@@ -1,0 +1,4 @@
+{
+  "title": "Live streaming using RTP/RTMP sources",
+  "description": "This pattern creates a live streaming stack leveraging AWS Elemental MediaLive, MediaPackage for RTP/RTMP input sources."
+}

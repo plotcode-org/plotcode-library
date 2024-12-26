@@ -1,0 +1,4 @@
+{
+  "title": "Amazon API Gateway - AWS Lambda - Amazon Comprehend sentiment analysis",
+  "description": "Perform sentiment analysis using Amazon Comprehend through AWS Lambda and Amazon API Gateway"
+}

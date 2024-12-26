@@ -1,0 +1,4 @@
+{
+  "title": "Meshing together EventBridge Custom Buses",
+  "description": "Meshing together EventBuses with EventBridge Rules and Event Patterns gives the features isolation and autonomy which drives producer and consumer clarity.  This pattern looks to demonstrate that using CDK and TypeScript."
+}

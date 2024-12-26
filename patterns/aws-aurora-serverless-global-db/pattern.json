@@ -1,0 +1,4 @@
+{
+  "title": "Amazon Aurora Serverless Primary to Secondary Global Database",
+  "description": "Create an Aurora Serverless Global database to replicate across regions"
+}

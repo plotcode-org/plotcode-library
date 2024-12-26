@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sfn-inside-sfn-cdk-python",
+  "template": "sfn_inside_sfn_cdk/sfn_inside_sfn_cdk_stack.py"
+}

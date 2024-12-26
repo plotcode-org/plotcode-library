@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/auroraserverless-secretsmanager",
+  "template": "CDK/lib/cdk-stack.ts"
+}

@@ -1,0 +1,4 @@
+{
+  "title": "Amazon SQS to AWS Step Functions using Amazon EventBridge Pipes",
+  "description": "This pattern invokes a Step Functions workflow from an SQS queue with optional filtering supported."
+}

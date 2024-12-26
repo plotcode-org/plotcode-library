@@ -1,0 +1,4 @@
+{
+  "title": "Route53 to ALB to ECS Fargate",
+  "description": "This pattern shows how to deploy a containerized Web API as an ECS fargate service, and expose it with a custom domain using Route53"
+}

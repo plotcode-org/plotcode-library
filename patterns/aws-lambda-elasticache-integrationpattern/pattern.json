@@ -1,0 +1,4 @@
+{
+  "title": "AWS Lamda to Amazon ElastiCache integration pattern",
+  "description": "Create a Redis Cluster in Amazon ElastiCache and read/write with a Lambda function."
+}

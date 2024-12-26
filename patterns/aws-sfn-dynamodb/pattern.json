@@ -1,0 +1,4 @@
+{
+  "title": "Step Functions to DynamoDB",
+  "description": "Create an AWS Step Functionsworkflow to integrate with Amazon DynamoDB"
+}

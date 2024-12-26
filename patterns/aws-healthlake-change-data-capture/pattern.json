@@ -1,0 +1,4 @@
+{
+  "title": "Using Amazon HealthLake as an Event Producer (CDC)",
+  "description": "Create an serverless CDC process for Amazon HealthLake."
+}

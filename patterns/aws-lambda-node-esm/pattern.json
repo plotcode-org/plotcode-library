@@ -1,0 +1,4 @@
+{
+  "title": "Lambda function for Node.js using TypeScript with ESM and ESBuild configured",
+  "description": "Create a Lambda function for Node.js with ESM modules configured and ESBuild bundle set up"
+}

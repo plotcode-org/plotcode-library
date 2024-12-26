@@ -1,0 +1,4 @@
+{
+  "title": "Lambda to SNS to Lambda",
+  "description": "Creates a Lambda function that sends a message to a SNS and then another function gets triggered when there is a new notification in the topic."
+}

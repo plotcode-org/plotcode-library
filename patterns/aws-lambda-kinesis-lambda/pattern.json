@@ -1,0 +1,4 @@
+{
+  "title": "Lambda to Kinesis Data Stream to Kinesis",
+  "description": "Create a Lambda function to push record to a Kinesis Data Stream and create another function to process those events from the stream."
+}

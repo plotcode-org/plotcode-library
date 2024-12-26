@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/s3-cloudfront-oai-cdk-python",
+  "template": "s3_cloudfront_oai_cdk.py"
+}

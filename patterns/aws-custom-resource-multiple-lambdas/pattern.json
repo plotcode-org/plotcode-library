@@ -1,0 +1,4 @@
+{
+  "title": "Custom resource with multiple AWS Lambda functions",
+  "description": "This pattern demonstrates the use of multiple AWS Lambda functions to manage a custom resource with CDK."
+}

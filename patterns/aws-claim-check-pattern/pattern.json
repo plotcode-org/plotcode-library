@@ -1,0 +1,4 @@
+{
+  "title": "Claim Check Pattern using .NET",
+  "description": "This pattern shows how to implement the claim check pattern using Amazon EventBridge, Amazon SQS, AWS Lambda and AWS Step Functions."
+}

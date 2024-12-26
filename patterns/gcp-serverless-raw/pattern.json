@@ -1,0 +1,4 @@
+{
+    "title": "Google Cloud Functions in Python and Go",
+    "description": "This example deploys two Google Cloud Functions. 'Hello World' functions are implemented in Python and Go."
+}

@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/dynamodb-seed-data-on-create-cdk",
+  "template": "lib/dynamodb-seed-data-on-create-cdk-stack.ts"
+}

@@ -1,0 +1,4 @@
+{
+  "title": "Auth0 Amazon EventBridge SaaS Integration with AWS Lambda",
+  "description": "Use the Amazon EventBridge Auth0 SaaS integration to process failed login attempts with AWS Lambda."
+}

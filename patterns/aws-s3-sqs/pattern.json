@@ -1,0 +1,4 @@
+{
+  "title": "S3 to SQS",
+  "description": "Sends notifications from S3 to SQS when an object is created."
+}

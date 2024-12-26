@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/iot-kinesis-lambda-cdk",
+  "template": "iot_kinesis_lambda_cdk/iot_kinesis_lambda_cdk_stack.py"
+}

@@ -1,0 +1,4 @@
+{
+    "title": "Slackbot for Posting Slack Mention Notifications",
+    "description": "A simple Slack bot that sends a message to specific channel to notify you any time you're @mentioned anywhere."
+}

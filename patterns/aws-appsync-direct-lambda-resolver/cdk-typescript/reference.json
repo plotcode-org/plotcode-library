@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/appsync-direct-lambda-resolver",
+  "template": "cdk/lib/main.ts"
+}

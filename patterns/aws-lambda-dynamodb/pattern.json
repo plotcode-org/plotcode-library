@@ -1,0 +1,4 @@
+{
+  "title": "Lambda to DynamoDB",
+  "description": "Persist an item to a DynamoDB table from a Lambda function"
+}

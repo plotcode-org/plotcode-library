@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway to Lambda to DynamoDB",
+  "description": "Create a Lambda function in VPC that receives a request from API Gateway and inserts a record into a DynamoDB table using VPC endpoint."
+}

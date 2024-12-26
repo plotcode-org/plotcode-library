@@ -1,0 +1,4 @@
+{
+  "title": "Running long-running scripts with CodeBuild",
+  "description": "Create a CodeBuild project triggered by a scheduled EventBridge rule."
+}

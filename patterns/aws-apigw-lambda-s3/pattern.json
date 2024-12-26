@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway to Lambda to S3",
+  "description": "Create an API Gateway API that fetches a presigned URL from S3 via Lambda."
+}

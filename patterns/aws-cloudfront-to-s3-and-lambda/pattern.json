@@ -1,0 +1,4 @@
+{
+  "title": "CloudFront to S3 and API Gateway",
+  "description": "CloudFront to S3 and API Gateway backed by TypeScript Lambda functions"
+}

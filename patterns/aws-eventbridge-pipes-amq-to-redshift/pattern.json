@@ -1,0 +1,4 @@
+{
+  "title": "Amazon MQ Integration with Amazon Redshift through Amazon EventBridge",
+  "description": "How to send messages from Amazon MQ for ActiveMQ  queue to Amazon Redshift Cluster using Amazon EventBridge Pipes"
+}

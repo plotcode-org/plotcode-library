@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/api-gateway-cors-whitelist-cdk",
+  "template": "infra/lib/main-stack.ts"
+}

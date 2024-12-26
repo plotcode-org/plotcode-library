@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-lambda-rds-snapstart",
+  "template": "infrastructure/cdk/src/main/java/com/unicorn/UnicornStoreStack.java"
+}

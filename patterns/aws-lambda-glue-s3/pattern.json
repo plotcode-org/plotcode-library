@@ -1,0 +1,4 @@
+{
+  "title": "Lambda to Glue to S3",
+  "description": "Create an AWS Lambda function to invoke a AWS Glue job to run the task and save the output file in Amazon S3"
+}

@@ -1,0 +1,4 @@
+{
+  "title": "Disable and enable EventBridge rules with EventBridge Scheduler",
+  "description": "Disable and enable an EventBridge rule on a maintenance schedule with EventBridge Scheduler."
+}

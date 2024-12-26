@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/s3-upload-presignedurl-api-cdk-ts",
+  "template": "lib/s3-upload-presignedurl-api-cdk-stack.ts"
+}

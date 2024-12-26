@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/lambda-elastic-ip-no-nat-gateway-cdk",
+  "template": "cdk/lib/cdk-stack.ts"
+}

@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/pulumi/examples/blob/master/gcp-java-gke-hello-world",
+  "template": "src/main/java/gcpgke/App.java"
+}

@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-schedule-to-step-function-cdk-python",
+  "template": "eventbridge_schedule_to_step_function_cdk_python/eventbridge_schedule_to_step_function_cdk_python_stack.py"
+}

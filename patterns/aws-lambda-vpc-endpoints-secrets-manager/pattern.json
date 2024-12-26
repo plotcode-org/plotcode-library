@@ -1,0 +1,4 @@
+{
+  "title": "AWS Lambda to AWS Secrets Manager",
+  "description": "Create an AWS Lambda function inside private subnet and access AWS Secrets Manager privately."
+}

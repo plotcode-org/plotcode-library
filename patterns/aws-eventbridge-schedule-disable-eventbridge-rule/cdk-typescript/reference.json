@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-schedule-disable-eventbridge-rule-cdk-typescript",
+  "template": "cdk/lib/scheduler-disable-rule-stack.ts"
+}

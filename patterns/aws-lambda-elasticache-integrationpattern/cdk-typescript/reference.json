@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/lambda-elasticache-integrationpattern-cdk",
+  "template": "lib/lambda-elasticache-integrationpattern-cdk-stack.ts"
+}

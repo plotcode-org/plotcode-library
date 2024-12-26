@@ -1,0 +1,4 @@
+{
+  "title": "Content-based message router with SNS and SQS filters",
+  "description": "Create an SNS topic that filters content using a set of SQS queues based on configurable critiria."
+}

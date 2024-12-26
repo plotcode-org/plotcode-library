@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/s3-sqs-lambda-bedrock-s3-cdk-python",
+  "template": "s3_sqs_lambda_bedrock_s3_cdk_python/s3_sqs_lambda_bedrock_s3_cdk_python_stack.py"
+}

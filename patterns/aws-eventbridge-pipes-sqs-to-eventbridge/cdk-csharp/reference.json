@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-pipes-sqs-to-eventbridge-cdk-dotnet",
+  "template": "cdk/src/Cdk/CdkStack.cs"
+}

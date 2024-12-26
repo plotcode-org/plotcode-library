@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sqs-lambda-dynamodb-cdk",
+  "template": "vsam_to_dynamo/vsam_to_dynamo_stack.py"
+}

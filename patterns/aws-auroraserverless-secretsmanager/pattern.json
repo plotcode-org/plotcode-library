@@ -1,0 +1,4 @@
+{
+  "title": "Aurora Serverless with Secrets Manager",
+  "description": "Create an Aurora Serverless cluster with Secrets Manager."
+}

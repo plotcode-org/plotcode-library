@@ -1,0 +1,4 @@
+{
+  "title": "DynamoDB Streams to Amazon SQS queue using Amazon EventBridge Pipes",
+  "description": "Simple pattern that sends events from DynamoDB Stream to SQS using EventBridge Pipes. Implemented with CDK using Python. "
+}

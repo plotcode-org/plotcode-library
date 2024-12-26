@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cdk-sns-sqs-lambda-dynamodb-dotnet",
+  "template": "src/Datapipeline/CrossStackProp.cs"
+}

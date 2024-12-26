@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cdk-codecommit-codebuild",
+  "template": "cdk/lib/pipeline.ts"
+}

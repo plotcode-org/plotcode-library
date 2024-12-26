@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/pulumi/examples/blob/master/azure-java-appservice-sql",
+  "template": "src/main/java/appservice/App.java"
+}

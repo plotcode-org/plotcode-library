@@ -1,0 +1,4 @@
+{
+  "title": "Deploy a NGINX server on private EC2 server and proxy it via REST API",
+  "description": "Create a REST API which acts as a proxy for a NGINX server hosted on a Amazon Elastic Compute Cloud (Amazon EC2)"
+}

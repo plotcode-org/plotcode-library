@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/pulumi/examples/blob/master/azure-cs-aci",
+  "template": "MyStack.cs"
+}

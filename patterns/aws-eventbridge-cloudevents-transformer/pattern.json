@@ -1,0 +1,4 @@
+{
+  "title": "EventBridge CloudEvents Input Transformer to Lambda",
+  "description": "This pattern uses an EventBridge input transfomer to convert an EventBridge event to a CloudEvent and send it to a Lambda function using the CloudEvents SDK for event handling."
+}

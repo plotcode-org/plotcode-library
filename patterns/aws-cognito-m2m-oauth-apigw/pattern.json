@@ -1,0 +1,4 @@
+{
+  "title": "Cognito machine-to-machine (M2M) OAuth 2.0 Authentication Using Custom Scopes with Amazon API Gateway",
+  "description": "This pattern demonstrates how to implement machine-to-machine (M2M) authentication using Amazon Cognito, OAuth 2.0, Amazon API Gateway, and AWS Lambda."
+}

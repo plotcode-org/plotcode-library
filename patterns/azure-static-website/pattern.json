@@ -1,0 +1,4 @@
+{
+    "title": "Static Website Using Azure Blob Storage and CDN",
+    "description": "This example configures Static website hosting in Azure Storage with a CDN endpoint."
+}

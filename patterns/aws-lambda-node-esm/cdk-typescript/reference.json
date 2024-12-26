@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/lambda-node-esm-cdk",
+  "template": "cdk/node-esm-stack.ts"
+}

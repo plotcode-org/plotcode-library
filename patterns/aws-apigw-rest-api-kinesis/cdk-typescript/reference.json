@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-rest-api-kinesis-cdk",
+  "template": "cdk/lib/apigw-kinesis-integration-stack.ts"
+}

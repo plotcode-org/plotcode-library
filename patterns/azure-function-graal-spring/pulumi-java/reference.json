@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/pulumi/examples/blob/master/azure-java-function-graal-spring",
+  "template": "infra/src/main/java/com/pulumi/example/infra/Main.java"
+}

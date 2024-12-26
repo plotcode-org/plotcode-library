@@ -1,0 +1,3 @@
+name: example-pulumi-java
+description: An example Java Pulumi program
+runtime: java

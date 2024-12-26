@@ -1,0 +1,4 @@
+{
+  "title": "AppSync to DynamoDB - SingleTable",
+  "description": "Create an AWS AppSync API endpoint with a custom resolver to Amazon DynamoDB using a single table design"
+}

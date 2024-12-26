@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/pulumi/examples/blob/master/gcp-ts-serverless-raw",
+  "template": "index.ts"
+}

@@ -1,0 +1,4 @@
+{
+    "title": "Azure Kubernetes Service (AKS) Cluster and Helm Chart",
+    "description": "Create an Azure Kubernetes Service (AKS) cluster and deploys a Helm Chart into this cluster."
+}

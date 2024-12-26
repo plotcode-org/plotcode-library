@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cdk-closed-loop-serverless-control",
+  "template": "cdk/lib/cdk-serverless-control-stack.ts"
+}

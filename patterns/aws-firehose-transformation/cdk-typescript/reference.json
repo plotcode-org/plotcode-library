@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/firehose-transformation-cdk-typescript",
+  "template": "src/lib/firehose-lambda-stack.ts"
+}

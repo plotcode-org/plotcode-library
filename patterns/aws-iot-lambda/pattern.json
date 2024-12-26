@@ -1,0 +1,4 @@
+{
+  "title": "IoT rule to Lambda",
+  "description": "Invoke a Lambda function from an IoT rule"
+}

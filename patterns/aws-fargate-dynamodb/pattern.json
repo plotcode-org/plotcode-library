@@ -1,0 +1,4 @@
+{
+  "title": "AWS Fargate to DynamoDB",
+  "description": "Create an AWS Fargate service that puts to DynamoDB"
+}

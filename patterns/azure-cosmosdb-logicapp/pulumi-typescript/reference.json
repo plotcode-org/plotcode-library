@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/pulumi/examples/blob/master/azure-ts-cosmosdb-logicapp",
+  "template": "index.ts"
+}

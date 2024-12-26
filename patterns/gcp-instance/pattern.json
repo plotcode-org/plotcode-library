@@ -1,0 +1,4 @@
+{
+    "title": "GCP Instance",
+    "description": "Create a GCP instance using Pulumi + Go."
+}

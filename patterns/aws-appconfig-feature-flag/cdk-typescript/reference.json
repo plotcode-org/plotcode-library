@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/appconfig-feature-flag-cdk",
+  "template": "lib/app-config-feature-flag-cdk-stack.ts"
+}

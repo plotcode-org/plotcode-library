@@ -1,0 +1,4 @@
+{
+  "title": "AWS Fargate to Amazon EventBridge",
+  "description": "Create an AWS Fargate service that sends events to EventBridge"
+}

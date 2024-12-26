@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/dynamodb-kinesis-cdk",
+  "template": "cdk/bin/dynamodb-kinesis-cdk.ts"
+}

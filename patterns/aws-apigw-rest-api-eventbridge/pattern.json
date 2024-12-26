@@ -1,0 +1,4 @@
+{
+  "title": "Amazon API Gateway REST API to Amazon EventBridge",
+  "description": "This pattern creates an Amazon API Gateway REST API and Amazon Eventbridge with CDK in Python."
+}

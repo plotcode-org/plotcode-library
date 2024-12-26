@@ -1,0 +1,4 @@
+{
+  "title": "Lambda Extension for SSM Parameter Store with CDK (Typescript)",
+  "description": "Read the Parameter Store value using Parameter Store Extension for Lambda"
+}

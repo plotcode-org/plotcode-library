@@ -1,0 +1,4 @@
+{
+  "title": "S3 to Lambda",
+  "description": "Create a Lambda function that resizes images uploaded to S3."
+}

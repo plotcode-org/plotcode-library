@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/claim-check-pattern-dotnet-cdk",
+  "template": "/cdk/CdkStack.cs"
+}

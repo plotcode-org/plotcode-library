@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/pulumi/examples/blob/master/gcp-go-functions-raw",
+  "template": "main.go"
+}

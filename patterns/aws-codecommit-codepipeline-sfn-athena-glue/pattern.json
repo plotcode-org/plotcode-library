@@ -1,0 +1,4 @@
+{
+  "title": "CodeCommit to CodePipeline to Step Functions",
+  "description": "Create a CodePipeline that invokes Steps Functions to run Glue queries"
+}

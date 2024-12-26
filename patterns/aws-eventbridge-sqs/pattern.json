@@ -1,0 +1,4 @@
+{
+  "title": "EventBridge to SQS",
+  "description": "Create an EventBridge rule that invokes an SQS queue."
+}

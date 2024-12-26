@@ -1,0 +1,4 @@
+{
+  "title": "REST API with Amazon API Gateway, Amazon RDS and AWS Lambda with SnapStart",
+  "description": "A pattern to show how to use Lambda SnapStart with relational databases."
+}

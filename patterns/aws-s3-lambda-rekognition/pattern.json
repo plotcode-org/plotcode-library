@@ -1,0 +1,4 @@
+{
+  "title": "S3 to Lambda to Rekognition",
+  "description": "Use Amazon Rekognition to index a face in a Rekognition faces collection."
+}

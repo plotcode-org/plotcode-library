@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-schema-notifications/cdk",
+  "template": "lib/notify-consumers-of-schema-changes-stack.ts"
+}

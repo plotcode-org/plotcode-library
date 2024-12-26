@@ -1,0 +1,4 @@
+{
+  "title": "Step Functions to S3 in CDK",
+  "description": "Create a Step Functions workflow that puts the object to an S3 bucket."
+}

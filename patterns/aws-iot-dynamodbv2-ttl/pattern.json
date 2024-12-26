@@ -1,0 +1,4 @@
+{
+  "title": "AWS IoT to DynamoDB",
+  "description": "Create IoT Topic Rules to put event data to DynamoDB table"
+}

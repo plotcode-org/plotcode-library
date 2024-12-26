@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-http-api-eventbridge-python",
+  "template": "apigw_http_api_eventbridge/apigw_http_api_eventbridge_stack.py"
+}

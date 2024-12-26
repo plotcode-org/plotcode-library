@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-pipes-amq-to-redshift-cdk-python",
+  "template": "amazonmq_redshift_integration/amazonmq_to_redshift_stack.py"
+}

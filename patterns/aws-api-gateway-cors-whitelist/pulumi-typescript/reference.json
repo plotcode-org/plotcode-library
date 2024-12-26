@@ -1,0 +1,4 @@
+{
+    "repo": "https://github.com/plotcode-org/plotcode-library/tree/main/patterns/aws-api-gateway-cors-whitelist/pulumi-typescript",
+    "template": "index.ts"
+  }

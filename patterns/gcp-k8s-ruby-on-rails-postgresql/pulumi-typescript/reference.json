@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/pulumi/examples/tree/master/gcp-ts-k8s-ruby-on-rails-postgresql",
+  "template": "infra/index.ts"
+}

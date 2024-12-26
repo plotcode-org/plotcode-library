@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-lambda-dotnet-cdk",
+  "template": "src/EventBridgeLambdaDotnetCdk/EventBridgeLambdaDotnetCdkStack.cs"
+}

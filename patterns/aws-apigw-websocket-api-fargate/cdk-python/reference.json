@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-websocket-api-fargate-cdk",
+  "template": "apigw_websocket_fargate_cdk/apigw_websocket_fargate_cdk_stack.py"
+}

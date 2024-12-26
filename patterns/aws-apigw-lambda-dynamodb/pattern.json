@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway REST API to Lambda to DynamoDB",
+  "description": "Create a Lambda function that receives a request from API Gateway and puts an item into DynamoDB."
+}

@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-http-api-lambda-ts-cdk",
+  "template": "lib/httpapi-lambda-stack.ts"
+}

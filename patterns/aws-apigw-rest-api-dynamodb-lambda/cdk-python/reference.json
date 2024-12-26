@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-rest-api-dynamodb-lambda-cdk",
+  "template": "lib/ApiDynamoDBStack.ts"
+}

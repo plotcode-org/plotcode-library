@@ -1,0 +1,4 @@
+{
+    "title": "Azure Function with Spring Boot Native and GraalVM",
+    "description": "Starting point for building Spring Native application hosted in Azure Function."
+}

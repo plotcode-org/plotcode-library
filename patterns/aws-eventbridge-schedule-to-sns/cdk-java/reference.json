@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-schedule-to-sns-publish-cdk-java",
+  "template": "src/main/java/com/myorg/EventBridgeScheduleToSnsCdkJavaStack.java"
+}

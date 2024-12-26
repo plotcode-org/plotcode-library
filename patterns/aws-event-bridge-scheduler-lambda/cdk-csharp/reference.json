@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/event-bridge-scheduler-lambda-cdk-dotnet",
+  "template": "cdk/src/Cdk/CdkStack.cs"
+}

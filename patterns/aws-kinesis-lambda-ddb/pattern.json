@@ -1,0 +1,4 @@
+{
+  "title": "Amazon Kinesis Data Streams to Lambda to DynamoDB",
+  "description": "Create a serverless app using Kinesis Data Streams, Lambda, and DynamoDB."
+}

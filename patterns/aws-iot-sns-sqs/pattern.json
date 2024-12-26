@@ -1,0 +1,4 @@
+{
+  "title": "IoT rule to SNS topic to SQS queue",
+  "description": "IoT Rule with a SNS action, a SNS Topic and a SQS standard Queue subscribed to the SNS topic."
+}

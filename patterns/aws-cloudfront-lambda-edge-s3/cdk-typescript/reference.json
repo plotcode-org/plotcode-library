@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cloudfront-lambda-edge-s3-cdk",
+  "template": "cdk/lib/amazon-s3-upload-api-patterns-stack.ts"
+}

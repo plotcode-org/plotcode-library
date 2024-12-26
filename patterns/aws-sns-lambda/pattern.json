@@ -1,0 +1,4 @@
+{
+  "title": "SNS to Lambda",
+  "description": "Create a Lambda function that subscribes to an SNS topic"
+}

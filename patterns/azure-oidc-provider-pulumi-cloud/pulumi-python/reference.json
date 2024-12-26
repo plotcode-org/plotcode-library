@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/pulumi/examples/blob/master/azure-py-oidc-provider-pulumi-cloud",
+  "template": "__main__.py"
+}

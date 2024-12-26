@@ -1,0 +1,4 @@
+{
+  "title": "Live Streaming on AWS for SRT/Zixi/RIST/RTP FEC input sources",
+  "description": "Creates a live streaming stack using MediaConnect, MediaLive and MediaPackage."
+}

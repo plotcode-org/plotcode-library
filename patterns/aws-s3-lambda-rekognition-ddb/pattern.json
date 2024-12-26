@@ -1,0 +1,4 @@
+{
+  "title": "Detect labels in images using S3, Lambda, Amazon Rekognition, and DynamoDB",
+  "description": "Detect labels in pictures using Amazon S3, AWS Lambda, Amazon Rekognition, and Amazon DynamoDB with Amazon Cloud Development Kit (AWS CDK)"
+}

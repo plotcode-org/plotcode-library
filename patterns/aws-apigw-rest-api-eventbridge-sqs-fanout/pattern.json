@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway REST API to Amazon EventBridge to SQS fanout",
+  "description": "Routes from Amazon API Gateway REST API to SQS via EventBridge."
+}

@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/appsync-lambda-sfn-cdk",
+  "template": "cdk_momo/cdk_momo_stack.py"
+}

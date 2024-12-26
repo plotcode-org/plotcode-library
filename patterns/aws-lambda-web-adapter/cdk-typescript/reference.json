@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/lambda-web-adapter-cdk",
+  "template": "cdk/stack/lambda-web-adapter-stack.ts"
+}

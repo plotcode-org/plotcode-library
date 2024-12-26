@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-bedrock-s3-aoss",
+  "template": "app.py"
+}

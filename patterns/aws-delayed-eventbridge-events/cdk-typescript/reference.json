@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/delayed-eventbridge-events",
+  "template": "cdk/lib/delayed-eventbridge-events-stack.ts"
+}

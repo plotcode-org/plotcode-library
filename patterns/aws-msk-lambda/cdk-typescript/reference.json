@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/msk-lambda-cdk",
+  "template": "lib/msk-lambda-cdk-stack.ts"
+}

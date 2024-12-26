@@ -1,0 +1,4 @@
+{
+  "title": "Trigger ECS task from SQS using EventBridge",
+  "description": "Create an application to create ECS tasks based on SQS messages pushed through EventBridge."
+}

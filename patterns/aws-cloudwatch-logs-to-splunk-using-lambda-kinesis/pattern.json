@@ -1,0 +1,4 @@
+{
+  "title": "Stream Amazon CloudWatch Logs to Splunk in Near Real-Time",
+  "description": "This pattern creates a Lambda Function to continuously send CloudWatch logs to Splunk"
+}

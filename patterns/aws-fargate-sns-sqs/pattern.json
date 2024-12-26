@@ -1,0 +1,4 @@
+{
+  "title": "AWS Fargate to SNS to SQS",
+  "description": "Create an AWS Fargate service that sends to SNS then SQS"
+}

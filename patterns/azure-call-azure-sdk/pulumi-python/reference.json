@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/pulumi/examples/blob/master/azure-py-call-azure-sdk",
+  "template": "__main__.py"
+}

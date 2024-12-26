@@ -1,0 +1,4 @@
+{
+  "title": "CloudWatch Logs Subscription to AWS Lambda",
+  "description": "Create a CloudWatch Logs subscription to a Lambda function"
+}

@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/elemental-mediapackage-cloudfront-cdk-ts",
+  "template": "lib/streaming_stack.ts"
+}

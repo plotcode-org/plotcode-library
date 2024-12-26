@@ -1,0 +1,4 @@
+{
+  "title": "Amazon SQS to AWS Lambda to Amazon DynamoDB with Amazon CloudWatch Alarms",
+  "description": "Preventing Amazon DynamoDB write throttling with an Amazon SQS queue-based buffer using CDK and monitoring with CloudWatch alarms."
+}

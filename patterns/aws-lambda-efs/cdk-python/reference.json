@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/lambda-efs-cdk",
+  "template": "lambda_efs_cdk/lambda_efs_cdk_stack.py"
+}

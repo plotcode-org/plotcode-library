@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway Private API with Lambda",
+  "description": "Create an Amazon API Gateway Private API with AWS VPC Lambda proxy integration"
+}

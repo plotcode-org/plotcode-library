@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/s3-to-eventbridge-claim-check-pattern",
+  "template": "cdk/lib/s3-to-eventbridge-automatic-claim-check-pattern-stack.ts"
+}

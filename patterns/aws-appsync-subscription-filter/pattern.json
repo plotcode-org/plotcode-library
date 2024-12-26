@@ -1,0 +1,4 @@
+{
+  "title": "AWS AppSync subscription enhanced filtering",
+  "description": "This pattern demonstrates the use of AWS AppSync subscriptions' enhanced filtering to send real-time notifications to a single user only."
+}

@@ -1,0 +1,4 @@
+{
+  "title": "S3 to Lambda",
+  "description": "Upload large file to S3 buckets with custom resources."
+}

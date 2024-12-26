@@ -1,0 +1,4 @@
+{
+  "title": "CloudFront to S3 with OAI",
+  "description": "Create a CloudFront distribution to S3 using OAI."
+}

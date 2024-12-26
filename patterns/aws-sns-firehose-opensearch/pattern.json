@@ -1,0 +1,4 @@
+{
+  "title": "Deliver messages to Amazon OpenSearch via SNS and Kinesis",
+  "description": "This pattern deploys infrastructure that utilizes Kinesis Firehose to deliver messages sent to an SNS topic to Amazon OpenSearch."
+}

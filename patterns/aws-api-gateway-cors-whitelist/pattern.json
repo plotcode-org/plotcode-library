@@ -1,0 +1,4 @@
+{
+  "title": "Amazon API Gateway CORS allowlist",
+  "description": "Create an allowlist of domains for CORS pre-flight requests."
+}

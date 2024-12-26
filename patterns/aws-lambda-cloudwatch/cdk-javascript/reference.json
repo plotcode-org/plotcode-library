@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/lambda-cloudwatch-cdk",
+  "template": "lib/lambda-cloudwatch-cdk-stack.js"
+}

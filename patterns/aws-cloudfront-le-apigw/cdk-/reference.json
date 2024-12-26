@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cloudfront-le-apigw-cdk",
+  "template": "lib/cloudfront-le-apigw-cdk-stack.ts"
+}

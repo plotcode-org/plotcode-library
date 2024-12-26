@@ -1,0 +1,3 @@
+name: example-pulumi-javascript
+description: An example JavaScript Pulumi program
+runtime: nodejs

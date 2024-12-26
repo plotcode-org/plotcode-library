@@ -1,0 +1,4 @@
+{
+  "title": "Amazon EventBridge Scheduler to send messages to Amazon SNS",
+  "description": "Simple pattern that publishes a message to an SNS topic every 5 minutes"
+}

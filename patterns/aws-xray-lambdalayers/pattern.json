@@ -1,0 +1,4 @@
+{
+  "title": "Lambda function with X-Ray",
+  "description": "Create a Lambda function using Lambda layers to enable X-Ray."
+}

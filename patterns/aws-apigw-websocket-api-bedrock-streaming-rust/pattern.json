@@ -1,0 +1,4 @@
+{
+  "title": "Streaming Amazon Bedrock response with Amazon API Gateway",
+  "description": "Stream an Amazon Bedrock LLM response with API Gateway WebSocket API and AWS Lambda function ."
+}

@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/lambda-sns-sms-cdk",
+  "template": "lambda_sns_sms_cdk/lambda_sns_sms_cdk_stack.py"
+}

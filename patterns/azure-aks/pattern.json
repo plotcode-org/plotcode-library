@@ -1,0 +1,4 @@
+{
+    "title": "Azure Kubernetes Service (AKS) Cluster",
+    "description": "Deploys an AKS cluster, creates an Azure Active AD application, creates a Service Principal and sets credentials to manage access to the cluster."
+}

@@ -1,0 +1,4 @@
+{
+  "title": "EventBridge to AppSync with OAuth",
+  "description": "EventBridge API Destination to AWS AppSync GraphQL API with OAuth authorization."
+}

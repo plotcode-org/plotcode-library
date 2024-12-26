@@ -1,0 +1,4 @@
+{
+  "title": "EventBridge event enrichment with AWS Lambda",
+  "description": "Enrich events with Lambda and put them back onto the event bus for downstream consumers"
+}

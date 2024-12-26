@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/dynamodb-lambda-cdk-kotlin",
+  "template": "stack/src/main/kotlin/org/myorg/example/MyStack.kt"
+}

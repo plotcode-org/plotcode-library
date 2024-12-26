@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/ta-eventbridge-lambda-s3",
+  "template": "s3_bucket_privatizer/s3_bucket_privatizer_stack.py"
+}

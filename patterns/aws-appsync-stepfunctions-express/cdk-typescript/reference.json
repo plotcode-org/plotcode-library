@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/appsync-stepfunctions-express-cdk",
+  "template": "cdk/bin/appsync-stepfunctions-express-cdk.ts"
+}

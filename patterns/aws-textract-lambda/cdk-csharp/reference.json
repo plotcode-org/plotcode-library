@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/textract-lambda-cdk-dotnet",
+  "template": "cdk/src/cdk/CdkStack.cs"
+}

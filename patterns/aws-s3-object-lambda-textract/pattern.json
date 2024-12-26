@@ -1,0 +1,4 @@
+{
+  "title": "S3 Object Lambda using Textract",
+  "description": "Pattern for extracting key value pair from documents for intelligent document processing"
+}

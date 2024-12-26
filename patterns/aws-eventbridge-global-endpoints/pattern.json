@@ -1,0 +1,4 @@
+{
+  "title": "Event Bridge Global Endpoints - Active Acttive",
+  "description": "Creates an EventBridge Global Endpoint and all the infra needed to set it up"
+}

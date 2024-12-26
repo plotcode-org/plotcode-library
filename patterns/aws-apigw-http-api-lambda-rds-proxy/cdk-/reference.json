@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-http-api-lambda-rds-proxy-cdk",
+  "template": "src/lib/rds-proxy-sequelize-stack.ts"
+}

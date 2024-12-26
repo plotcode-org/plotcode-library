@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/parallel-e2e-pipeline-cdk",
+  "template": "src/pipeline/app/pipeline-stack.ts"
+}

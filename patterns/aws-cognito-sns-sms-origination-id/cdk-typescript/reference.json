@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cognito-sns-sms-origination-id",
+  "template": "lib/cognito-sns-sms-origination-identity-stack.ts"
+}

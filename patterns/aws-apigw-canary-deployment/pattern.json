@@ -1,0 +1,4 @@
+{
+  "title": "Amazon API Gateway canary deployment",
+  "description": "Create a serverless app using API Gateway and Lambda. Then create an API Gateway canary deployment"
+}

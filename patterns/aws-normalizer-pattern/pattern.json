@@ -1,0 +1,4 @@
+{
+  "title": "SQS to EventBridge using EventBridge Pipes with normalizer pattern",
+  "description": "This pattern implementes the normalizer pattern using an EventBridge Pipe. This example uses SQS as source and EventBridge as target, but the pattern can be applied to other sources and targets as well."
+}

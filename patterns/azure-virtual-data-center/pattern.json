@@ -1,0 +1,4 @@
+{
+    "title": "Azure Virtual Data Center (VDC)",
+    "description": "Deploys Azure Virtual Data Center (VDC) hub-and-spoke network stacks in Azure, Azure Firewall guarding a DMZ, and Azure Bastion."
+}

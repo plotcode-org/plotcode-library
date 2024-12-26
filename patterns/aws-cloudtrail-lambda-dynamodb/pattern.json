@@ -1,0 +1,4 @@
+{
+  "title": "Check Amazon S3 object tag compliance using AWS CloudTrail",
+  "description": "Creates a CloudTrail trail to track S3 object creation events, and checks for the required tags on those objects to determine compliance"
+}

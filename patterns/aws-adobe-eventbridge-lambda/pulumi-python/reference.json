@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/plotcode-org/plotcode-library/tree/main/patterns/aws-adobe-eventbridge-lambda/pulumi-python",
+  "template": "__main__.py"
+}

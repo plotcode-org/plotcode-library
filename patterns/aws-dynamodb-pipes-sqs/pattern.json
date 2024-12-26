@@ -1,0 +1,4 @@
+{
+  "title": "DynamoDB Streams to SQS using EventBridge Pipes",
+  "description": "This pattern demonstrates a low code way to send DynamoDB stream records to an SQS queue using EventBridge Pipes."
+}

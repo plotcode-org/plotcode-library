@@ -1,0 +1,4 @@
+{
+    "title": "Minecraft Server Using an Azure Virtual Machine",
+    "description": "This example deploys an Azure Virtual Machine and provisions a Minecraft server."
+}

@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/iot-dynamodbv2-ttl-cdk",
+  "template": "iot-ddbv2/lib/iot-ddbv2-stack.ts"
+}

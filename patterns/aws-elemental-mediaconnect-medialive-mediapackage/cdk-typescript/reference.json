@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/elemental-mediaconnect-medialive-mediapackage-cdk-ts",
+  "template": "lib/streaming_stack.ts"
+}

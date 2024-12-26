@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cdk-lambda-appsync",
+  "template": "cdk/lib/main.ts"
+}

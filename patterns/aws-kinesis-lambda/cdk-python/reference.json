@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/kinesis-lambda-py-cdk",
+  "template": "svlsland/svlsland_stack.py"
+}

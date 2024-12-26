@@ -1,0 +1,4 @@
+{
+  "title": "Automatic data transformation with Amazon S3, AWS Glue and AWS Step Functions",
+  "description": "This pattern helps transform data by using an event-driven architecture to trigger a data transformation job"
+}

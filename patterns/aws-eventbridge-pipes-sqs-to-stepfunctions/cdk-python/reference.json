@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-pipes-sqs-to-stepfunctions-cdk-python",
+  "template": "eventbridge_pipes_sqs_to_stepfunctions_cdk_python/eventbridge_pipes_sqs_to_stepfunctions_cdk_python_stack.py"
+}

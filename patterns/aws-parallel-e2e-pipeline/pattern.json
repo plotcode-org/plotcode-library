@@ -1,0 +1,4 @@
+{
+  "title": "AWS CodePipeline scaffolding for CDK",
+  "description": "Provides scaffolding for a CI/CD pipeline with parallelized End-to-End (E2E) tests."
+}

@@ -1,0 +1,4 @@
+{
+  "title": "AWS Fargate to Amazon S3",
+  "description": "Create an AWS Fargate service that reads and writes to S3"
+}

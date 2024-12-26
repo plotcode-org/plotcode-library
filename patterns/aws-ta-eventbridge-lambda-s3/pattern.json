@@ -1,0 +1,4 @@
+{
+  "title": "Trusted Advisor to EventBridge to Lambda",
+  "description": "Create an EventBridge rule that invokes a Lambda function from Trusted Advisor"
+}

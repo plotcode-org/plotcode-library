@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway REST API to SQS to Lambda to Bedrock",
+  "description": "Query Amazon Bedrock asynchronously."
+}

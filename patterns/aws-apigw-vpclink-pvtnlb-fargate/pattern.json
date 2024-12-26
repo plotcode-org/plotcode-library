@@ -1,0 +1,4 @@
+{
+  "title": "Amazon API Gateway to AWS Fargate via VPC Link and Network Load Balancer",
+  "description": "This pattern connects a public API Gateway to a private Network Load Balancer to ECS Fargate cluster. It keeps the private subnet resources safe."
+}

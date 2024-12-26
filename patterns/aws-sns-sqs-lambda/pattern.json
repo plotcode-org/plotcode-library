@@ -1,0 +1,4 @@
+{
+  "title": "Lambda to SNS to SQS to Lambda",
+  "description": "Creates one Lambda function that sends a message to an SNS topic. That topic sends the message to a SQS queue and finally another Lambda picks the message."
+}

@@ -1,0 +1,4 @@
+{
+  "title": "Secret rotation using Amazon EventBridge Scheduler and AWS Lambda",
+  "description": "Secret rotation in AWS Secrets Manager using Amazon EventBridge Scheduler and AWS Lambda"
+}

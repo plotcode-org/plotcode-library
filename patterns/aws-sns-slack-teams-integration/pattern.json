@@ -1,0 +1,4 @@
+{
+  "title": "Amazon SNS integration with Slack/Teams channels",
+  "description": "This sample pattern demonstrates how to use Amazon SNS and AWS Lambda to deliver notifications to your Slack or teams channels."
+}

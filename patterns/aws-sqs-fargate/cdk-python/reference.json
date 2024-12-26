@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sqs-fargate-cdk-python",
+  "template": "sqs_fargate_cdk_python/sqs_fargate_cdk_python_stack.py"
+}

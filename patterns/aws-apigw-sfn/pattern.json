@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway to Step Functions",
+  "description": "Create an API Gateway HTTP APIs endpoint that starts a Step Functions syncronous Express Workflow"
+}

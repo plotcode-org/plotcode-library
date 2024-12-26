@@ -1,0 +1,4 @@
+{
+  "title": "Lambda Secrets Manager with PowerTools",
+  "description": "Lambda function that uses PowerTools to get Secrets Manager secret and call an API."
+}

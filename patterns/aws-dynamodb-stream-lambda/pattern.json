@@ -1,0 +1,4 @@
+{
+  "title": "Amazon DynamoDB Stream to AWS Lambda",
+  "description": "Create an AWS Lambda function that receives DynamoDB change items."
+}

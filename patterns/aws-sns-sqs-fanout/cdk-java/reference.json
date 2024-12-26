@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sns-sqs-fanout-cdk-java",
+  "template": "src/main/java/com/myorg/SnsToSqsFanOutStack.java"
+}

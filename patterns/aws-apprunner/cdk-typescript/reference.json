@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apprunner-cdk",
+  "template": "cdk/lib/cdk-stack.ts"
+}

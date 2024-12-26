@@ -1,0 +1,4 @@
+{
+  "title": "Idempotent HTTP requests with Amazon EventBridge API Destinations",
+  "description": "Create an EventBridge event bus and API Destination to reliably send events to HTTP APIs."
+}

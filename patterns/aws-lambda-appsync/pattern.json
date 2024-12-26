@@ -1,0 +1,4 @@
+{
+  "title": "Lambda to AppSync",
+  "description": "Create a Lambda function that triggers an AppSync GraphQL API."
+}

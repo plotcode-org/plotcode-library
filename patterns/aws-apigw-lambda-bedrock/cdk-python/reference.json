@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-lambda-bedrock-cdk-python",
+  "template": "apigw_lambda_bedrock/apigw_lambda_bedrock_stack.py"
+}

@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sns-sqs-message-content-router-cdk",
+  "template": "src/lib/src-stack.ts"
+}

@@ -1,0 +1,4 @@
+{
+  "title": "Message Aggregator with SQS, Lambda and DynamoDB",
+  "description": "Creates a Lambda function that groups and tracks messages using DynamoDB. Once messages are aggregated a new message is raised on a destination SQS queue."
+}

@@ -1,0 +1,4 @@
+{
+  "title": "Amazon EventBridge Scheduler remove one time schedule",
+  "description": "Amazon EventBridge Scheduler job runs every five minutes to identify and delete one time Amazon EventBridge Scheduler jobs expired more than 7 days."
+}

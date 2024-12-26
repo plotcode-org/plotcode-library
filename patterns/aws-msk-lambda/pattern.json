@@ -1,0 +1,4 @@
+{
+  "title": "Amazon MSK to Lambda",
+  "description": "Create a Lambda function that subscribes to an MSK topic"
+}

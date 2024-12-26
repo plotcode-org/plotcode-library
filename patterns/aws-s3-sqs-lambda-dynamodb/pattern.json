@@ -1,0 +1,4 @@
+{
+  "title": "Process files uploaded to S3 with SQS, Lambda and DynamoDB",
+  "description": "Stores and process CSV data using Amazon S3, Amazon SQS, AWS Lambda and Amazon DynamoDB."
+}

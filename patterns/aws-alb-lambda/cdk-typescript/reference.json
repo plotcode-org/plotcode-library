@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/alb-lambda-cdk",
+  "template": "lib/alb-lambda-cdk-stack.ts"
+}

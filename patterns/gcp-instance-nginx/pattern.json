@@ -1,0 +1,4 @@
+{
+    "title": "Nginx Server Using Compute Engine",
+    "description": "Build the Pulumi nginx server sample in Google Cloud Platform."
+}

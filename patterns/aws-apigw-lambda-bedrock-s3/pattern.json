@@ -1,0 +1,4 @@
+{
+  "title": "Generate image with Amazon Bedrock, AWS Lambda, and API Gateway",
+  "description": "Generate images using Amazon Bedrock from an AWS Lambda function fronted with API Gateway and save to Amazon S3"
+}

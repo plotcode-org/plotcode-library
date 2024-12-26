@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/content-filter-pattern-kinesis-cdk",
+  "template": "src/lib/content-filter-stack.ts"
+}

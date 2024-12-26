@@ -1,0 +1,4 @@
+{
+  "title": "AppSync to SNS",
+  "description": "Create an AppSync API with an SNS HTTP data source"
+}

@@ -1,0 +1,4 @@
+{
+  "title": "Stream Amazon Bedrock completions via AWS AppSync subscriptions",
+  "description": "Use AppSync subscriptions to interact with Bedrock models."
+}

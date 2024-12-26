@@ -1,0 +1,4 @@
+{
+  "title": "Amazon Cognito - SNS SMS Origination Id",
+  "description": "This pattern creates an Amazon Cognito user pool and an AWS Lambda function."
+}

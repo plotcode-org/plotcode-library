@@ -1,0 +1,4 @@
+{
+  "title": "AWS Fargate to Aurora Serverless",
+  "description": "Create an AWS Fargate service that interacts with Aurora Serverless"
+}

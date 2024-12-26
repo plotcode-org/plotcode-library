@@ -1,0 +1,4 @@
+{
+  "title": "Amazon S3 to AWS Fargate",
+  "description": "Start an AWS Fargate Task when a file is uploaded to S3"
+}

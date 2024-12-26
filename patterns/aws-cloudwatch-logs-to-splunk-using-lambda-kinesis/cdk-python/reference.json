@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cloudwatch-logs-to-splunk-using-lambda-kinesis",
+  "template": "bin/kinesis-data-stream-log-processor.ts"
+}

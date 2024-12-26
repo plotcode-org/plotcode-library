@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway to Lambda to Translate",
+  "description": "Perform language translation using Translate through Lambda and API Gateway"
+}

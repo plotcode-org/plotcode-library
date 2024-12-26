@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sfn-glue-sync-cdk",
+  "template": "app.py"
+}

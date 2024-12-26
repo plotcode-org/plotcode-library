@@ -1,0 +1,4 @@
+{
+  "title": "Secrets Manager with Fargate",
+  "description": "Use AWS Secrets Manager to inject secrets into AWS Fargate Containers."
+}

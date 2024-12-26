@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/s3-lambda-cdk-dotnet",
+  "template": "src/S3Lambda/S3LambdaStack.cs"
+}

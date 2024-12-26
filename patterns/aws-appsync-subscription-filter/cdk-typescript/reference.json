@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/appsync-subscription-filter-cdk",
+  "template": "lib/demo-stack.ts"
+}

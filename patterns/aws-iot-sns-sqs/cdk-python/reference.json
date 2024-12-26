@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/iot-sns-sqs-cdk",
+  "template": "iot_sns_sqs_cdk/iot_sns_sqs_cdk_stack.py"
+}

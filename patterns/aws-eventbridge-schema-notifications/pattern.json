@@ -1,0 +1,4 @@
+{
+  "title": "Notify consumers of schema changes with Schema Registry events",
+  "description": "Use Schema Registry events and EventBridge to notify consumers of changes (Slack example)"
+}

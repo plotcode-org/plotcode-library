@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/dynamodb-pipes-sqs-cdk",
+  "template": "src/DynamoPipeSqs/DynamoPipeSqsStack.cs"
+}

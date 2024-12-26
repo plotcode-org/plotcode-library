@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cdk-eventbridge-mesh",
+  "template": "lib/main-stack.ts"
+}

@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sns-sqs-fanout-pattern-cdk-dotnet",
+  "template": "src/Cdk/CdkStack.cs"
+}

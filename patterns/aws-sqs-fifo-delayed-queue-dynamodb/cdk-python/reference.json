@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sqs-fifo-delayed-queue-dynamodb",
+  "template": "delay_fifo_queue_test/delay_fifo_queue_test_stack.py"
+}

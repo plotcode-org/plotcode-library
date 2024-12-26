@@ -1,0 +1,4 @@
+{
+    "title": "VNet injection with a Private Endpoint",
+    "description": "This deploys a secure front end - back end web app. The backend web app is only exposed through a private endpoint."
+}

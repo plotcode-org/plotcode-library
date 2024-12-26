@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/pulumi/examples/blob/master/azure-cs-credential-rotation-one-set",
+  "template": "AppStack.cs"
+}

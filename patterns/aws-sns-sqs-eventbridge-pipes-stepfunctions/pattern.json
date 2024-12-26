@@ -1,0 +1,4 @@
+{
+  "title": "SNS to Step Functions with an EventBridge Pipe and Bus via CDK",
+  "description": "Creates a Step FunctionsWorkflow that is triggered by a producer that is generating messages in SNS.  The messages are filtered via EventBridge Pipes and the Step Functionsis Triggered by a Custom EventBus and Rule"
+}

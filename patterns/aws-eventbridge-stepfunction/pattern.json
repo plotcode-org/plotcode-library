@@ -1,0 +1,4 @@
+{
+  "title": "EventBridge to Step Functions",
+  "description": "Create an EventBridge rule that triggers a Step Functions workflow"
+}

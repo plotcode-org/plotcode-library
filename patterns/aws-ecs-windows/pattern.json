@@ -1,0 +1,4 @@
+{
+  "title": "Running Windows Containers with Amazon ECS",
+  "description": "Deploy a application on Windows based Amazon Elastic Container Service (Amazon ECS) Cluster."
+}

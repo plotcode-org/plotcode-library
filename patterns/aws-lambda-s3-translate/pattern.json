@@ -1,0 +1,4 @@
+{
+  "title": "S3 to Lambda to Translate",
+  "description": "Trigger a Lambda function from S3 object created to start an Amazon Translate task."
+}

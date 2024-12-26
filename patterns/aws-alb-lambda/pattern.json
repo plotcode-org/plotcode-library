@@ -1,0 +1,4 @@
+{
+  "title": "Application Load Balancer with Lambda as a target",
+  "description": "Create an Application Load Balancer with Lambda as target using CDK"
+}

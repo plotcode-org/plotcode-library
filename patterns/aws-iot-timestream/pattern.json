@@ -1,0 +1,4 @@
+{
+  "title": "IoT rule to Timestream",
+  "description": "Create an IoT Rule to ingest data to Timestream."
+}

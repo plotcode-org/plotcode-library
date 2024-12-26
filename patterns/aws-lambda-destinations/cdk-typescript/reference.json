@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/lambda-destinations-cdk",
+  "template": "cdk/lib/async-functions.ts"
+}

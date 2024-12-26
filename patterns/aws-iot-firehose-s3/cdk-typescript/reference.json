@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/iot-firehose-s3-cdk",
+  "template": "iot-kfh-s3/lib/iot-kfh-s3-stack.ts"
+}

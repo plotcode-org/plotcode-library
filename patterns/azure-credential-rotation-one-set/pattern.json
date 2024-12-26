@@ -1,0 +1,4 @@
+{
+    "title": "Automate the rotation of secret",
+    "description": "Use a managed identity to access Azure KeyVault, Azure Storage, and Azure SQL Database without passwords or secrets."
+}

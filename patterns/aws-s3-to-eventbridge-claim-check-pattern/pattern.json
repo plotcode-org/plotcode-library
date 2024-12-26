@@ -1,0 +1,4 @@
+{
+  "title": "S3 to EventBridge claim check with presigned urls",
+  "description": "Event-driven claim check pattern using S3 and EventBridge. Using Lambda to transform events into domain events with enrichment and presgined urls."
+}

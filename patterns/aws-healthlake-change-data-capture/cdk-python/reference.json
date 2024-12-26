@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/healthlake-change-data-capture",
+  "template": "lib/main-stack.ts"
+}

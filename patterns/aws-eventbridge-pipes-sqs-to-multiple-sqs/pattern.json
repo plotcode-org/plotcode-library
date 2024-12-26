@@ -1,0 +1,4 @@
+{
+  "title": "Split SQS Messages into multiple SQS queus using EventBridge Pipe with CDK Python",
+  "description": "Simple pattern that split messages in a SQS queue into multiple SQS queues using EventBridge Pipe and Event Bus. Implemented using CDK using Python. "
+}

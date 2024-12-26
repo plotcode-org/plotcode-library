@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway REST API to Lambda to DynamoDB with X-Ray",
+  "description": "Create an API Gateway endpoint integrated with Lambda and DynamoDB with X-Ray enabled."
+}

@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cloudtrail-streaming-to-opensearch-serverless-cdk",
+  "template": "stacks/opensearch_serverless_stack.py"
+}

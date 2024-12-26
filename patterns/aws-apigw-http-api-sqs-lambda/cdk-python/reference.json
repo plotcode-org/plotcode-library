@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-http-api-sqs-lambda-cdk",
+  "template": "infrastructure/apigw_http_api_sqs_lambda_stack.py"
+}

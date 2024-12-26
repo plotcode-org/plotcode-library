@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/pulumi/examples/blob/master/azure-cs-aks-managed-identity",
+  "template": "Program.cs"
+}

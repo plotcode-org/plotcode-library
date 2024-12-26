@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sqs-lambda-ddb-cdk-ts",
+  "template": "lib/sqs-lambda-dynamo-stack.ts"
+}

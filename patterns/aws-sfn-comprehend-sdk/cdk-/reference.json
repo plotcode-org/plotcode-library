@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sfn-comprehend-sdk",
+  "template": "sfn_comprehend_sdk/sfn_comprehend_sdk_stack.py"
+}

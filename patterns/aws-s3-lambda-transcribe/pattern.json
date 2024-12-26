@@ -1,0 +1,4 @@
+{
+  "title": "S3 to Lambda to Transcribe",
+  "description": "Trigger a Transcribe job from an S3 upload."
+}

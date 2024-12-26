@@ -1,0 +1,4 @@
+{
+  "title": "Amazon CloudFront Origin Access Control for AWS Lambda Function URL",
+  "description": "Shows how to protect AWS Lambda Function URL origins by using CloudFront Origin Access Control to only allow access from designated CloudFront distributions"
+}

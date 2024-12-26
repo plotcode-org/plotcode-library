@@ -1,0 +1,4 @@
+{
+  "title": "EventBridge Scheduler to call Lambda every 5 minutes with CDK",
+  "description": "Simple pattern that triggers a .NET Lambda function every 5 minutes using Amazon EventBridge Scheduler and CDK"
+}

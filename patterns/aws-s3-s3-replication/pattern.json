@@ -1,0 +1,4 @@
+{
+  "title": "S3 replication to multiple S3 buckets with CDK",
+  "description": "Replicate a S3 bucket to multiple S3 buckets. Implemented in CDK"
+}

@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/s3-eventbridge-glue",
+  "template": "s3_eventbridge_crawler/s3_eventbridge_crawler_stack.py"
+}

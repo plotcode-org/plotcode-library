@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-http-api-cognito-lambda-cdk",
+  "template": "lib/http-api-cognito-lambda-stack.ts"
+}

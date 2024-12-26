@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/route53-alb-fargate-cdk-dotnet",
+  "template": "src/Route53AlbFargateCdkDotnet/Route53AlbFargateCdkDotnetStack.cs"
+}

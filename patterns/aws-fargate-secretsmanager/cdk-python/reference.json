@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/fargate-secretsmanager",
+  "template": "src/fargate_secretsmanager_stack.py"
+}

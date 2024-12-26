@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-schedule-lambda-to-dynamodb",
+  "template": "cdk/src/Cdk/CdkStack.cs"
+}

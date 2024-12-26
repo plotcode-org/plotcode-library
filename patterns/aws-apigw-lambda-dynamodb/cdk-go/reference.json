@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-lambda-dynamodb-cdk-go",
+  "template": "cdk/main.go"
+}

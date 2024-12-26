@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/sfn-callback-cdk",
+  "template": "step_function_callback/step_function_callback_stack.py"
+}

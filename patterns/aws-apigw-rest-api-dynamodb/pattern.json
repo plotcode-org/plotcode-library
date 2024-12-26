@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway REST API to DynamoDB",
+  "description": "Create an Amazon API Gateway REST API that integrates with an Amazon DynamoDB table."
+}

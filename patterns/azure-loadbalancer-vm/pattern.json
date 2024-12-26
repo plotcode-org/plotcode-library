@@ -1,0 +1,4 @@
+{
+    "title": "Azure Load Balancer and Virtual Machine",
+    "description": "Deploys an Azure Load Balancer fronting an Azure Virtual Machine and starts an HTTP server on the VM."
+}

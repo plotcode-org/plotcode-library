@@ -1,0 +1,4 @@
+{
+  "title": "Process images using Amazon Rekognition and IoT Core",
+  "description": "Process images with Amazon Rekognition and detect if uploaded image contains Personal Protective Equipment (PPE)"
+}

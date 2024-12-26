@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cdk-apigw-connect-start-task",
+  "template": "cdk_apigw_connect_start_task/cdk_apigw_connect_start_task_stack.py"
+}

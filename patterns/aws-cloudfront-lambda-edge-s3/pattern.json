@@ -1,0 +1,4 @@
+{
+  "title": "CloudFront to S3 with Lambda@Edge",
+  "description": "Create a CloudFront Distribution to upload files to an S3 bucket. Uses Lambda@Edge for authentication."
+}

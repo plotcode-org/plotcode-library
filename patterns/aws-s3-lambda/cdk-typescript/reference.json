@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/s3-lambda-cdk",
+  "template": "src/lib/s3-to-lambda-cdk-stack.ts"
+}

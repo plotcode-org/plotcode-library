@@ -1,0 +1,4 @@
+{
+  "title": "API Gateway Lambda authorizer for basic HTTP authentication",
+  "description": "API Gateway REST API protected by a Lambda Authorizer supporting basic HTTP authentication."
+}

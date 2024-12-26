@@ -1,0 +1,4 @@
+{
+    "title": "Google Cloud Run",
+    "description": "An example of deploying a custom Docker image into Google Cloud Run service using TypeScript."
+}

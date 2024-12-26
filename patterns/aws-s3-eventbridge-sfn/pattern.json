@@ -1,0 +1,4 @@
+{
+  "title": "S3 to Step Functions using EventBridge",
+  "description": "How to create an EventBridge rule with S3 as the event source and Step Functions as target."
+}

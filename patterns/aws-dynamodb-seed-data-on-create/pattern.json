@@ -1,0 +1,4 @@
+{
+  "title": "DynamoDB seed data on create with custom resource using CDK (Typescript)",
+  "description": "Create a DynamoDB table and insert data upon creation using custom resource."
+}

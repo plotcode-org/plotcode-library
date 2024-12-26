@@ -1,0 +1,4 @@
+{
+  "title": "EventBridge to Step Functions and failure events to SQS",
+  "description": "Create a Step Functions workflow to Send Failure event to SQS for operational needs."
+}

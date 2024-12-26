@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cloudfront-cff-s3-cdk-python",
+  "template": "cloudfront_cff_s3_cdk_python/cloudfront_cff_s3_cdk_python_stack.py"
+}

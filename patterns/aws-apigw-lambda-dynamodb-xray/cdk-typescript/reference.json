@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-lambda-dynamodb-xray",
+  "template": "cdk/lib/apigw-lambda-dynamodb-cdk-ts-stack.ts"
+}

@@ -1,0 +1,4 @@
+{
+  "title": "AppSync to Lambda",
+  "description": "Create an AppSync API with a direct Lambda resolver"
+}

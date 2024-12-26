@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["../lambda/index.ts", "../config.json", "../lambda/api-handler.ts"],
+  "sourcesContent": ["export { handler as ProxyLambda } from \"./api-handler\";", "{\r\n    \"prefix\": \"WAFAPIGateway\",\r\n    \"description\": \"A VPC Lambda to get request from API Gateway protected by WAF\",\r\n    \"api\": {\r\n      \"handler\": \"ProxyLambda\"\r\n    },\r\n    \"headers\": {\r\n        \"Content-Type\": \"text/plain;charset=utf-8\"\r\n      },\r\n      \"tags\": [\r\n        {\"key\": \"Key\", \"value\": \"Value\"},\r\n        {\"key\": \"Project\", \"value\": \"APIGatewayWAF\"}\r\n      ]\r\n  } ", "\r\nimport { Handler } from \"aws-lambda\";\r\nimport config from \"../config.json\";\r\n\r\nexport const handler: Handler = async (event) => {\r\n  return {\r\n    body: `Success path: \"${event.path}\"`,\r\n    headers: config.headers,\r\n    statusCode: 200,\r\n  };\r\n};"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;AAAA;AAAA;AAAA;AAAA;AAAA;;;ACAA;AAAA,EACI,QAAU;AAAA,EACV,aAAe;AAAA,EACf,KAAO;AAAA,IACL,SAAW;AAAA,EACb;AAAA,EACA,SAAW;AAAA,IACP,gBAAgB;AAAA,EAClB;AAAA,EACA,MAAQ;AAAA,IACN,EAAC,KAAO,OAAO,OAAS,QAAO;AAAA,IAC/B,EAAC,KAAO,WAAW,OAAS,gBAAe;AAAA,EAC7C;AACJ;;;ACTK,IAAM,UAAmB,OAAO,UAAU;AAC/C,SAAO;AAAA,IACL,MAAM,kBAAkB,MAAM,IAAI;AAAA,IAClC,SAAS,eAAO;AAAA,IAChB,YAAY;AAAA,EACd;AACF;",
+  "names": []
+}

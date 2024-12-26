@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/pulumi/examples/blob/master/azure-go-aks-managed-identity",
+  "template": "main.go"
+}

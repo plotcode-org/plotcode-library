@@ -1,0 +1,4 @@
+{
+  "title": "Lambda Web Adapter with Function URL",
+  "description": "Create a Lambda function that contains a NodeJS application and it is invoked by a Function URL"
+}

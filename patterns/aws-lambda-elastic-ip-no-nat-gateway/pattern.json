@@ -1,0 +1,4 @@
+{
+  "title": "AWS Lambda using Elastic IP without NAT Gateway",
+  "description": "Create a Lambda function with public Elastic IP without provisioning NAT Gateway"
+}

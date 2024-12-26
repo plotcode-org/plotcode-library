@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/eventbridge-schedule-to-eventbridge-cdk",
+  "template": "cdk/lib/eventbridge-scheduler-into-eventbridge-stack.ts"
+}

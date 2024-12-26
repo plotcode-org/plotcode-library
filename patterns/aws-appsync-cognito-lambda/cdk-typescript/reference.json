@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/appsync-cognito-lambda-cdk",
+  "template": "lib/cognito-auth-cdk-stack.ts"
+}

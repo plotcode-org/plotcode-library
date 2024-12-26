@@ -1,0 +1,4 @@
+{
+  "title": "Amazon API Gateway to Amazon DynamoDB which streams event to AWS Lambda",
+  "description": "API Gateway to DynamoDB to Lambda function using streams."
+}

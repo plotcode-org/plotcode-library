@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/apigw-vpclink-pvtnlb-fargate-cdk-python",
+  "template": "apigw_vpclink_pvtnlb_fargate_cdk_python/apigw_vpclink_pvtnlb_fargate_cdk_python_stack.py"
+}

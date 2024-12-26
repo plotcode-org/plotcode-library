@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/cdk-kinesis-poison-pill",
+  "template": "lib/main-stack.ts"
+}

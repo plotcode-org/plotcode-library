@@ -1,0 +1,4 @@
+{
+  "title": "Send CloudEvents with EventBridge API destinations",
+  "description": "Send structured or binary mode CloudEvents with EventBridge API destinations"
+}

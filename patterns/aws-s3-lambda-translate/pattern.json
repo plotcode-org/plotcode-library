@@ -1,0 +1,4 @@
+{
+  "title": "Amazon Translate with Amazon S3 and AWS Lambda",
+  "description": "Perform document language translation using Translate with Lambda and S3"
+}

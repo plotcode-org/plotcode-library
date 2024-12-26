@@ -1,0 +1,4 @@
+{
+  "repo": "https://github.com/aws-samples/serverless-patterns/tree/main/kinesis-data-stream-lambda-esm-cdk-python",
+  "template": "cdk/data_stream_processor/kinesis_lambda.py"
+}
